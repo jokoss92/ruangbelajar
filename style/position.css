@@ -1,5 +1,33 @@
 .kotak{
     position: relative;
-    top: 120px;
+    top: 60px;
     background: orange;
+}
+
+.belajar2{
+    position: absolute;
+    right: 0;
+    top: 20px;
+    margin: 0px;
+    background-color: blue;
+}
+
+div {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background: red;
+}
+
+.fix{
+    background: green;
+    position: fixed;
+    top: 40px;
+    left: 80px;
+}
+
+.stick{
+    background: pink;
+    position: sticky;
+    top: 40px;
 }
